@@ -1,4 +1,4 @@
-package org.example;
+package Course_Java;
 
 // Семинар 1
 import java.util.ArrayList;
